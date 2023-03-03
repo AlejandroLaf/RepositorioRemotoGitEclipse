@@ -5,6 +5,8 @@ public class SalidasRama1 {
 		// TODO Auto-generated method stub
 		System.out.println("Primera salida rama1");
 		System.out.println("Segunda salida rama1");
+		System.out.println("Nueva salida rama1");
+		System.out.println("Otra salida rama1");
 
 	}
 
